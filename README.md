@@ -1,6 +1,6 @@
 # Clipbored!? © Three Blind Mice Ltd site
 
-Clipbored is a strawpoll esque poll creator, the first group project for the Lighthouse Labs web dev bootcamp. This is a full stack web app, using Node, ES6, Express, Knex and PostgreSQL in the back-end and bootstrap framework, SCSS, ES5, jQuery and AJAX front-end technologies.
+Clipbored is a strawpoll creator. This is a full stack web app, using Node, ES6, Express, Knex and PostgreSQL in the back-end and bootstrap framework, SCSS, ES5, jQuery and AJAX front-end technologies.
 
 *made by:* **[Ghabe Bossin](https://github.com/ringringlemurpants), [Joshua Dennis](https://github.com/floydianslips), [Sammy Lirette-Cowen](https://github.com/SammyLiretteCowen)**
 
@@ -31,6 +31,10 @@ Clipbored is a strawpoll esque poll creator, the first group project for the Lig
   <!-- - Check the seeds file to see what gets seeded in the DB -->
 9. Run the server: `npm run local`
 10. Visit `http://localhost:8080/` in your browser.
+
+#### Misc
+
+ 1. You will need paid Mailgun API key to have full functionality.
 
 ##### Dependencies
 
