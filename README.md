@@ -2,8 +2,8 @@
 
 Clipbored is a strawpoll creator.
 - PEJN Stack - PostgreSQL, Express, jQuery, Node.js
-- Backend: PostgreSQL, Express, Node, Express, Knex and PostgreSQL
-- Frontend: Bootstrap, SCSS, jQuery/AJAX
+- Backend: PostgreSQL, Express, Node.js, Knex
+- Frontend: Bootstrap, SCSS, jQuery, AJAX
 
 *made by:* **[Ghabe Bossin](https://github.com/ringringlemurpants), [Joshua Dennis](https://github.com/floydianslips), [Sammy Lirette-Cowen](https://github.com/SammyLiretteCowen)**
 
