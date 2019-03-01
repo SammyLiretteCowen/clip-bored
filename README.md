@@ -1,7 +1,7 @@
 # Clipbored!? © Three Blind Mice Ltd site
 
 Clipbored is a strawpoll creator.
-- EJN Stack - PostgreSQL, Express, jQuery, Node.js
+- PEJN Stack - PostgreSQL, Express, jQuery, Node.js
 - Backend: PostgreSQL, Express, Node, Express, Knex and PostgreSQL
 - Frontend: Bootstrap, SCSS, jQuery/AJAX
 
